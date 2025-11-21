@@ -1,0 +1,5 @@
+{
+  "name": "GE107_Localisation",
+  "description": "Real-time indoor positioning dashboard for ESP32 UWB anchors using trilateration and least squares optimization.",
+  "requestFramePermissions": []
+}
