@@ -212,7 +212,7 @@ const App = () => {
              <Activity className="text-lab-900" size={24} />
           </div>
           <div>
-            <h1 className="text-2xl font-bold tracking-tight text-white">UWB Localization Dashboard</h1>
+            <h1 className="text-2xl font-bold tracking-tight text-white">GE107 Localization </h1>
             <p className="text-xs text-slate-400 font-mono">ESP32 TRILATERATION SYSTEM v1.0</p>
           </div>
         </div>
