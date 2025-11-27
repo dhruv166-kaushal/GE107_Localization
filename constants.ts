@@ -1,13 +1,13 @@
 import { AnchorConfig, FieldDimensions } from './types';
 
-// Field size in Centimeters (Matching ESP32 config: 200cm x 200cm)
+// Field size in Centimeters (Matching ESP32 config: 40cm x 40cm)
 export const FIELD_DIMENSIONS: FieldDimensions = {
-  width: 200,
-  height: 200,
+  width: 40,
+  height: 40,
 };
 
 // Anchor positions matching ESP32 Geometry (in cm)
-// A1: (0,0), A2: (200,0), A3: (200,200), A4: (0,200)
+// A1: (0,0), A2: (40,0), A3: (40,40), A4: (0,40)
 export const ANCHORS: AnchorConfig[] = [
   {
     id: "1",
